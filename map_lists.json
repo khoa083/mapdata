@@ -6,7 +6,7 @@
       "time": "2026-3-13",
       "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
       "sizeInBytes": 721875568,
-      "continent": "asia",
+      "continent": "Asia",
       "allow": true
     },
     {
@@ -15,7 +15,7 @@
       "time": "",
       "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
       "sizeInBytes": 0,
-      "continent": "asia",
+      "continent": "Asia",
       "allow": false
     },
     {
@@ -24,7 +24,7 @@
       "time": "",
       "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
       "sizeInBytes": 0,
-      "continent": "asia",
+      "continent": "Asia",
       "allow": false
     },
     {
@@ -33,7 +33,7 @@
       "time": "",
       "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
       "sizeInBytes": 0,
-      "continent": "asia",
+      "continent": "Asia",
       "allow": false
     },
     {
@@ -42,7 +42,7 @@
       "time": "",
       "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
       "sizeInBytes": 0,
-      "continent": "asia",
+      "continent": "Asia",
       "allow": false
     }
   ]
