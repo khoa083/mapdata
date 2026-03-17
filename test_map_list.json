@@ -1,0 +1,1588 @@
+{
+    "maps": [
+        {
+            "mapId": "dz",
+            "name": "Algeria",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ao",
+            "name": "Angola",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "bj",
+            "name": "Benin",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "bw",
+            "name": "Botswana",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "bf",
+            "name": "Burkina Faso",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "cm",
+            "name": "Cameroon",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "cv",
+            "name": "Cape Verde",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "td",
+            "name": "Chad",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "km",
+            "name": "Comoros",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "cg",
+            "name": "Congo - Brazzaville",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "cd",
+            "name": "Congo - Kinshasa",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ci",
+            "name": "Côte d’Ivoire",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "dj",
+            "name": "Djibouti",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "eg",
+            "name": "Egypt",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "er",
+            "name": "Eritrea",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ga",
+            "name": "Gabon",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "gm",
+            "name": "Gambia",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "gh",
+            "name": "Ghana",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "gn",
+            "name": "Guinea",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "gw",
+            "name": "Guinea-Bissau",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ke",
+            "name": "Kenya",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "lr",
+            "name": "Liberia",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ly",
+            "name": "Libya",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ml",
+            "name": "Mali",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "mu",
+            "name": "Mauritius",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ma",
+            "name": "Morocco",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "mz",
+            "name": "Mozambique",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "na",
+            "name": "Namibia",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ne",
+            "name": "Niger",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ng",
+            "name": "Nigeria",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "rw",
+            "name": "Rwanda",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "sn",
+            "name": "Senegal",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "sc",
+            "name": "Seychelles",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "sl",
+            "name": "Sierra Leone",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "so",
+            "name": "Somalia",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "za",
+            "name": "South Africa",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "sd",
+            "name": "Sudan",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "tz",
+            "name": "Tanzania",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "tg",
+            "name": "Togo",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "tn",
+            "name": "Tunisia",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "ug",
+            "name": "Uganda",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "zm",
+            "name": "Zambia",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "zw",
+            "name": "Zimbabwe",
+            "time": "",
+            "description": "Map data was obtained from OpenStreetMap Data Extracts.",
+            "sizeInBytes": 0,
+            "continent": "africa",
+            "allow": false
+        },
+        {
+            "mapId": "am",
+            "name": "Armenia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "az",
+            "name": "Azerbaijan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "bh",
+            "name": "Bahrain",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "bd",
+            "name": "Bangladesh",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "kh",
+            "name": "Cambodia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "cn",
+            "name": "China",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "cy",
+            "name": "Cyprus",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "ge",
+            "name": "Georgia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "hk",
+            "name": "Hong Kong",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "in",
+            "name": "India",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "id",
+            "name": "Indonesia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "ir",
+            "name": "Iran",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "iq",
+            "name": "Iraq",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "il",
+            "name": "Israel",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "jp",
+            "name": "Japan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "jo",
+            "name": "Jordan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "kz",
+            "name": "Kazakhstan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "kw",
+            "name": "Kuwait",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "kg",
+            "name": "Kyrgyzstan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "la",
+            "name": "Laos",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "lb",
+            "name": "Lebanon",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "mo",
+            "name": "Macao",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "my",
+            "name": "Malaysia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "mv",
+            "name": "Maldives",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "mn",
+            "name": "Mongolia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "mm",
+            "name": "Myanmar (Burma)",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "np",
+            "name": "Nepal",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "om",
+            "name": "Oman",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "pk",
+            "name": "Pakistan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "ph",
+            "name": "Philippines",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "qa",
+            "name": "Qatar",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "sa",
+            "name": "Saudi Arabia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "sg",
+            "name": "Singapore",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "kr",
+            "name": "South Korea",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "lk",
+            "name": "Sri Lanka",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "tw",
+            "name": "Taiwan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "tj",
+            "name": "Tajikistan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "th",
+            "name": "Thailand",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "tm",
+            "name": "Turkmenistan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "tr",
+            "name": "Türkiye",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "ae",
+            "name": "United Arab Emirates",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "uz",
+            "name": "Uzbekistan",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "vn",
+            "name": "Vietnam",
+            "time": "2026-3-13",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 721875568,
+            "continent": "asia",
+            "allow": true
+        },
+        {
+            "mapId": "ye",
+            "name": "Yemen",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "asia",
+            "allow": false
+        },
+        {
+            "mapId": "al",
+            "name": "Albania",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "at",
+            "name": "Austria",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "by",
+            "name": "Belarus",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "be",
+            "name": "Belgium",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "ba",
+            "name": "Bosnia & Herzegovina",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "bg",
+            "name": "Bulgaria",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "hr",
+            "name": "Croatia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "cz",
+            "name": "Czechia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "dk",
+            "name": "Denmark",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "ee",
+            "name": "Estonia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "fi",
+            "name": "Finland",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "fr",
+            "name": "France",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "de",
+            "name": "Germany",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "gi",
+            "name": "Gibraltar",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "gr",
+            "name": "Greece",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "hu",
+            "name": "Hungary",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "is",
+            "name": "Iceland",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "ie",
+            "name": "Ireland",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "it",
+            "name": "Italy",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "lv",
+            "name": "Latvia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "li",
+            "name": "Liechtenstein",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "lt",
+            "name": "Lithuania",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "lu",
+            "name": "Luxembourg",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "mt",
+            "name": "Malta",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "md",
+            "name": "Moldova",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "mc",
+            "name": "Monaco",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "nl",
+            "name": "Netherlands",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "mk",
+            "name": "North Macedonia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "no",
+            "name": "Norway",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "pl",
+            "name": "Poland",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "pt",
+            "name": "Portugal",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "ro",
+            "name": "Romania",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "ru",
+            "name": "Russia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "sm",
+            "name": "San Marino",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "rs",
+            "name": "Serbia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "sk",
+            "name": "Slovakia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "si",
+            "name": "Slovenia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "es",
+            "name": "Spain",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "se",
+            "name": "Sweden",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "ch",
+            "name": "Switzerland",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "ua",
+            "name": "Ukraine",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "gb",
+            "name": "United Kingdom",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "va",
+            "name": "Vatican City",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "europe",
+            "allow": false
+        },
+        {
+            "mapId": "ag",
+            "name": "Antigua & Barbuda",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "aw",
+            "name": "Aruba",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "bs",
+            "name": "Bahamas",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "bz",
+            "name": "Belize",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "bm",
+            "name": "Bermuda",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "vg",
+            "name": "British Virgin Islands",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "ca",
+            "name": "Canada",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "ky",
+            "name": "Cayman Islands",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "cr",
+            "name": "Costa Rica",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "cu",
+            "name": "Cuba",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "dm",
+            "name": "Dominica",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "do",
+            "name": "Dominican Republic",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "sv",
+            "name": "El Salvador",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "gd",
+            "name": "Grenada",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "gt",
+            "name": "Guatemala",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "ht",
+            "name": "Haiti",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "hn",
+            "name": "Honduras",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "jm",
+            "name": "Jamaica",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "mx",
+            "name": "Mexico",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "ni",
+            "name": "Nicaragua",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "pa",
+            "name": "Panama",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "kn",
+            "name": "St. Kitts & Nevis",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "lc",
+            "name": "St. Lucia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "tt",
+            "name": "Trinidad & Tobago",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "tc",
+            "name": "Turks & Caicos Islands",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "us",
+            "name": "United States",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "north-america",
+            "allow": false
+        },
+        {
+            "mapId": "au",
+            "name": "Australia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "oceania",
+            "allow": false
+        },
+        {
+            "mapId": "fj",
+            "name": "Fiji",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "oceania",
+            "allow": false
+        },
+        {
+            "mapId": "fm",
+            "name": "Micronesia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "oceania",
+            "allow": false
+        },
+        {
+            "mapId": "nz",
+            "name": "New Zealand",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "oceania",
+            "allow": false
+        },
+        {
+            "mapId": "pg",
+            "name": "Papua New Guinea",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "oceania",
+            "allow": false
+        },
+        {
+            "mapId": "ws",
+            "name": "Samoa",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "oceania",
+            "allow": false
+        },
+        {
+            "mapId": "sb",
+            "name": "Solomon Islands",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "oceania",
+            "allow": false
+        },
+        {
+            "mapId": "to",
+            "name": "Tonga",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "oceania",
+            "allow": false
+        },
+        {
+            "mapId": "vu",
+            "name": "Vanuatu",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "oceania",
+            "allow": false
+        },
+        {
+            "mapId": "ar",
+            "name": "Argentina",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "bo",
+            "name": "Bolivia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "br",
+            "name": "Brazil",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "cl",
+            "name": "Chile",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "co",
+            "name": "Colombia",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "ec",
+            "name": "Ecuador",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "py",
+            "name": "Paraguay",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "pe",
+            "name": "Peru",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "sr",
+            "name": "Suriname",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "uy",
+            "name": "Uruguay",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        },
+        {
+            "mapId": "ve",
+            "name": "Venezuela",
+            "time": "",
+            "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+            "sizeInBytes": 0,
+            "continent": "south-america",
+            "allow": false
+        }
+    ]
+}
