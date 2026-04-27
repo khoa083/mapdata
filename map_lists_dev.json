@@ -1,0 +1,58 @@
+{
+  "maps": [
+    {
+      "mapId": "vn",
+      "name": "Vietnam",
+      "time": "2026-3-13",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sizeInBytes": 757657149,
+      "continent": "Asia",
+      "allow": true
+    },
+    {
+      "mapId": "tr",
+      "name": "Turkey",
+      "time": "2026-04-26",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sizeInBytes": 0,
+      "continent": "Europe",
+      "allow": true
+    },
+    {
+      "mapId": "la",
+      "name": "Laos",
+      "time": "",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sizeInBytes": 0,
+      "continent": "Asia",
+      "allow": false
+    },
+    {
+      "mapId": "th",
+      "name": "Thailand",
+      "time": "",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sizeInBytes": 0,
+      "continent": "Asia",
+      "allow": false
+    },
+    {
+      "mapId": "jp",
+      "name": "Japan",
+      "time": "",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sizeInBytes": 0,
+      "continent": "Asia",
+      "allow": false
+    },
+    {
+      "mapId": "sg",
+      "name": "Singapore",
+      "time": "",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sizeInBytes": 0,
+      "continent": "Asia",
+      "allow": false
+    }
+  ]
+}
