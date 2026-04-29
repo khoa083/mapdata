@@ -19,6 +19,15 @@
       "allow": true
     },
     {
+      "mapId": "in_central",
+      "name": "India (Central Zone)",
+      "time": "2026-04-28",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sizeInBytes": 807421807,
+      "continent": "Asia",
+      "allow": true
+    },
+    {
       "mapId": "la",
       "name": "Laos",
       "time": "",
