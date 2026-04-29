@@ -5,6 +5,7 @@
       "name": "Vietnam",
       "time": "2026-3-13",
       "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sha256": "771395bf512443fcd0ff466fbd41240e18674b6850db2f2af2b8eb9667edf0bb",
       "sizeInBytes": 757657149,
       "continent": "Asia",
       "allow": true
@@ -14,6 +15,7 @@
       "name": "Turkey",
       "time": "2026-04-26",
       "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sha256": "9b71d8f22025ca24b380718f1262555a714c1cd239e736e63db27f80315b034b",
       "sizeInBytes": 1287184575,
       "continent": "Europe",
       "allow": true
@@ -22,8 +24,19 @@
       "mapId": "in_central",
       "name": "India (Central Zone)",
       "time": "2026-04-28",
-      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/). This area includes Uttar Pradesh, Madhya Pradesh, Chhattisgarh, and Uttarakhand.",
+      "sha256": "800b359248351adb254e246feda4111c7c39a0cc99026b55d59cff077db5515f",
       "sizeInBytes": 807421807,
+      "continent": "Asia",
+      "allow": true
+    },
+    {
+      "mapId": "in",
+      "name": "India (Full Map)",
+      "time": "2026-04-28",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sha256": "cb8bf5cbb475ec9d9bfc0e50e8fa1901242cda1c45b16dcaea5c3f30838b0df0",
+      "sizeInBytes": 3757961188,
       "continent": "Asia",
       "allow": true
     },
