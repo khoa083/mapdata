@@ -19,6 +19,24 @@
       "allow": true
     },
     {
+      "mapId": "in_central",
+      "name": "India (Central Zone)",
+      "time": "2026-04-28",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/). This area includes Uttar Pradesh, Madhya Pradesh, Chhattisgarh, and Uttarakhand.",
+      "sizeInBytes": 807421807,
+      "continent": "Asia",
+      "allow": true
+    },
+    {
+      "mapId": "in",
+      "name": "India (Full Map)",
+      "time": "2026-04-28",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sizeInBytes": 3757961188,
+      "continent": "Asia",
+      "allow": true
+    },
+    {
       "mapId": "la",
       "name": "Laos",
       "time": "",
