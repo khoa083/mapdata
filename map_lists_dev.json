@@ -41,6 +41,16 @@
       "allow": true
     },
     {
+      "mapId": "bd",
+      "name": "Bangladesh",
+      "time": "2026-05-08",
+      "description": "Map data was obtained from [OpenStreetMap Data Extracts](https://download.geofabrik.de/).",
+      "sha256": "811ab9e42a38c1095b2bf3ce6816ccc2c178fd6fb72aba039c3d59c6956ad4f9",
+      "sizeInBytes": 350742847,
+      "continent": "Asia",
+      "allow": true
+    },
+    {
       "mapId": "la",
       "name": "Laos",
       "time": "",
